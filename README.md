@@ -20,7 +20,8 @@
 ## Interests
 - 🎮 Exploring the intersection of AI and Gaming
 - 🎲 Applying Machine Learning to Chess strategies
-- 🏊 Developing applications for swimming performance analysis
+- 🗺️ Understanding and developing Applications for solving real- world problems
+- 🏊 Increasing the efficiency of my swimming strokes
 ## Let's Connect!
 - 👋 Feel free to reach out via email or LinkedIn!
 

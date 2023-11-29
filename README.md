@@ -14,7 +14,7 @@
 - 🤖 Studying various Machine Learning algorithms and Deep Learning
 ## Contact
 - 📧 Email: harshaj282005@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/jonnalagadda-harsha-476102265)
+- [LinkedIn](https://www.linkedin.com/in/jonnalagadda-harsha)
 ## Projects
 - 🚀 Check out my projects on [GitHub](https://github.com/SriHarshaJonnalagadda)
 ## Interests
